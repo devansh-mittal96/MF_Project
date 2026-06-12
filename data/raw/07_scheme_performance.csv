@@ -1,0 +1,7 @@
+amfi_code,scheme_name,return_1y,return_3y,return_5y,sharpe_ratio,expense_ratio,alpha,beta
+125497,HDFC Top 100 Direct,14.2,13.1,12.8,0.82,0.95,2.1,0.98
+119551,SBI Bluechip,12.5,11.8,11.5,0.71,1.05,1.4,0.96
+120503,ICICI Bluechip,13.8,12.4,12.1,0.78,0.88,1.8,0.99
+118632,Nippon Large Cap,11.9,10.9,10.6,0.65,1.12,0.9,0.94
+119092,Axis Bluechip,15.1,13.5,13.0,0.88,0.92,2.5,1.02
+120841,Kotak Bluechip,13.2,12.0,11.7,0.74,0.98,1.6,0.97
